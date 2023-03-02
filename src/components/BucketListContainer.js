@@ -25,7 +25,7 @@ const BucketListContainer = () => {
     return (
         <main>
             <header>
-            <h1>Life is Short: Add Adventures to your Bucketlist!</h1>
+            <h1>Life is Short: Add Adventures to your Bucketlist! YAY!</h1>
             </header>
             <Form
             value={listItem}
