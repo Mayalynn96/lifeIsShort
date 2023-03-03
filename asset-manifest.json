@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/lifeIsShort/static/js/main.2abf5e3f.js",
+    "main.css": "/lifeIsShort/static/css/main.89ea4375.css",
+    "main.js": "/lifeIsShort/static/js/main.7267507b.js",
     "index.html": "/lifeIsShort/index.html",
-    "main.2abf5e3f.js.map": "/lifeIsShort/static/js/main.2abf5e3f.js.map"
+    "main.89ea4375.css.map": "/lifeIsShort/static/css/main.89ea4375.css.map",
+    "main.7267507b.js.map": "/lifeIsShort/static/js/main.7267507b.js.map"
   },
   "entrypoints": [
-    "static/js/main.2abf5e3f.js"
+    "static/css/main.89ea4375.css",
+    "static/js/main.7267507b.js"
   ]
 }
